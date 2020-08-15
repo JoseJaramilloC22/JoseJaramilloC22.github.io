@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Mi Educación
 type: categories
 # All the Categories of posts
 # v2.0
@@ -8,96 +8,22 @@ type: categories
 # MIT License
 ---
 
-{% assign HEAD_PREFIX = "h_" %}
-{% assign LIST_PREFIX = "l_" %}
+## Jardín Tía Laura
 
-{% assign group_index = 0 %}
+Mis estudios los comencé desde los tres años de edad. El prekinder, kinder y preparatoria los realicé en este jardín, no quedaba tan lejos de nuestra casa, en el sur de la ciudad de Guayaquil. Durante mi estancia aquí, participé en muchos actos y participaciones que organizaban en ciertos días festivos. 
 
-{% assign sort_categories = site.categories | sort %}
+## Unidad Educativa International School
 
-{% for category in sort_categories %}
-  {% assign category_name = category | first %}
-  {% assign posts_of_category = category | last %}
-  {% assign first_post = posts_of_category | first %}
+Aquí empecé a estudiar desde mi 2° grado de EGB (Básica elemental), hasta 7° grado de EGB (Básica media). Lo considero una de los mejores pasos en cuanto a mi educación por diversos motivos, no sólo por el hecho de conocer buenos compañeros, con los que aún me sigo comunicando y hemos compartido varios momentos juntos, sino porque habían buenos profesores, y explicaban muy bien las clases.
 
-  {% if category_name == first_post.categories[0] %}
-    {% assign sub_categories = "" | split: "" %}
+## Unidad Educativa Américo Vespucio
 
-    {% for post in posts_of_category %}
-      {% assign second_category = post.categories[1] %}
-      {% if second_category %}
-        {% unless sub_categories contains second_category %}
-          {% assign sub_categories = sub_categories | push: second_category %}
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
+A mis 12 años de edad, estando en mi nuevo colegio, comencé a estudiar mi 8° grado EGB (Básica superior) hasta el 1° año de BGU (Bachillerato). Un colegio en la cual me pude acoger y conocer nuevo compañeros, con los que de igual manera aún tengo contacto. Tenía buenos profesores, gracias a su enseñanza, aprendí temas con los que aún pongo en práctica. Normalmente me mantengo con buenas calificaciones, lo que me ayudó bastante a seguir adelante sin quedarme suplerio, ó, aún peor, quedarme de año. Luego de haber estado 4 años en esta unidad educativa, por diversas circunstancias, elegí cambiarme de colegio.
 
-    {% assign sub_categories = sub_categories | sort %}
-    {% assign sub_categories_size = sub_categories | size %}
+## Unidad Educativa Fiscal Nueve de Octubre
 
-  <div class="card categories">
-    <!-- top-category -->
-    <div class="card-header d-flex justify-content-between hide-border-bottom"
-        id="{{ HEAD_PREFIX }}{{ group_index }}">
-      <span>
-      {% if sub_categories_size > 0 %}
-        <i class="far fa-folder-open fa-fw"></i>
-      {% else %}
-        <i class="far fa-folder fa-fw"></i>
-      {% endif %}
-        <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}/"
-          class="ml-1 mr-2">
-          {{ category_name }}
-        </a>
+Esta era la primera vez que estudiaba en colegio fiscal, en la que cursé los dos últimos años de Bachillerato. En mis dos años de estudios aquí, conocí bastantes compañeros, e hice muy buenos amigos, con los que aún me escribo, y, disponemos de poder compartir tiempo juntos. Algunos profesores si explicaban bien, pero otros no, por lo que considero que la enseñanza era baja. Aún así ponía atención y en práctica lo que me enseñaban. Eso me sirvió para mi Nivelación, y el poder entrar a la Universidad.
 
-        <!-- content count -->
-        {% assign top_posts_size = site.categories[category_name] | size %}
-        <span class="text-muted small font-weight-light">
-          {% if sub_categories_size > 0 %}
-            {{ sub_categories_size }}
-            {% if sub_categories_size > 1 %}categories{% else %}category{% endif %},
-          {% endif %}
-            {{ top_posts_size }}
-            post{% if top_posts_size > 1 %}s{% endif %}
-        </span>
-      </span>
+## Universidad de Guayaquil (En curso)
 
-      <!-- arrow -->
-      {% if sub_categories_size > 0%}
-      <a href="#{{ LIST_PREFIX }}{{ group_index }}" data-toggle="collapse" aria-expanded="true"
-          class="category-trigger hide-border-bottom">
-        <i class="fas fa-fw fa-angle-down"></i>
-      </a>
-      {% else %}
-      <span data-toggle="collapse" class="category-trigger hide-border-bottom disabled">
-        <i class="fas fa-fw fa-angle-right"></i>
-      </span>
-      {% endif %}
-
-    </div> <!-- .card-header -->
-
-    <!-- Sub-categories -->
-    {% if sub_categories_size > 0 %}
-    <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
-      <ul class="list-group">
-        {% for sub_category in sub_categories %}
-        <li class="list-group-item">
-          <i class="far fa-folder fa-fw"></i>
-          <a href="{{ site.baseurl }}/categories/{{ sub_category | replace: ' ', '-' | downcase | url_encode }}/"
-            class="ml-1 mr-2">{{ sub_category }}</a>
-          {% assign posts_size = site.categories[sub_category] | size %}
-          <span class="text-muted small font-weight-light">{{ posts_size }}
-            post{% if posts_size > 1 %}s{% endif %}
-          </span>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-  </div> <!-- .card -->
-
-    {% assign group_index = group_index | plus: 1 %}
-
-  {% endif %}
-{% endfor %}
+Luego de haber aprobado la nivelación, actualmente me encuentro cursando el primer semestre en la universidad. Por momentos duros que está afectando a nuestra sociedad, estamos recibiendo clases de manera virtual.
