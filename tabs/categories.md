@@ -14,15 +14,15 @@ Mis estudios los comencé desde los tres años de edad. El prekinder, kinder y p
 
 ## Unidad Educativa International School
 
-Aquí empecé a estudiar desde mi 2° grado de EGB (Básica elemental), hasta 7° grado de EGB (Básica media). Lo considero una de los mejores pasos en cuanto a mi educación por diversos motivos, no sólo por el hecho de conocer buenos compañeros, con los que aún me sigo comunicando y hemos compartido varios momentos juntos, sino porque habían buenos profesores, y explicaban muy bien las clases.
+Aquí empecé a estudiar desde mi 2° grado de EGB (Básica elemental), hasta 7° grado de EGB (Básica media). Lo considero una de los mejores pasos en cuanto a mi educación por diversos motivos: por haber disputado mi primer campeonato intercolegial de fútbol; otra razón fue el conocer buenos compañeros, con los que compartí buenos momentos y aún me sigo comunicando; y, por los excelentes profesores que nos explicaban claramente las clases.
 
 ## Unidad Educativa Américo Vespucio
 
-A mis 12 años de edad, estando en mi nuevo colegio, comencé a estudiar mi 8° grado EGB (Básica superior) hasta el 1° año de BGU (Bachillerato). Un colegio en la cual me pude acoger y conocer nuevo compañeros, con los que de igual manera aún tengo contacto. Tenía buenos profesores, gracias a su enseñanza, aprendí temas con los que aún pongo en práctica. Normalmente me mantengo con buenas calificaciones, lo que me ayudó bastante a seguir adelante sin quedarme suplerio, ó, aún peor, quedarme de año. Luego de haber estado 4 años en esta unidad educativa, por diversas circunstancias, elegí cambiarme de colegio.
+A mis 12 años de edad, estando en mi nuevo colegio, comencé a estudiar mi 8° grado EGB (Básica superior) hasta el 1° año de BGU (Bachillerato). Un colegio en la cual me pude acoger y conocer nuevos compañeros, con los que de igual manera aún tengo contacto. Tenía buenos profesores, gracias a su enseñanza, aprendí temas que aún pongo en práctica. Normalmente me mantengo con buenas calificaciones, lo que me ayudó bastante a seguir adelante sin quedarme suplerio, ó, aún peor, quedarme de año. Luego de haber estado 4 años en esta unidad educativa, por diversas circunstancias, elegí cambiarme de colegio.
 
 ## Unidad Educativa Fiscal Nueve de Octubre
 
-Esta era la primera vez que estudiaba en colegio fiscal, en la que cursé los dos últimos años de Bachillerato. En mis dos años de estudios aquí, conocí bastantes compañeros, e hice muy buenos amigos, con los que aún me escribo, y, disponemos de poder compartir tiempo juntos. Algunos profesores si explicaban bien, pero otros no, por lo que considero que la enseñanza era baja. Aún así ponía atención y en práctica lo que me enseñaban. Eso me sirvió para mi Nivelación, y el poder entrar a la Universidad.
+Esta era la primera vez que estudiaba en colegio fiscal, en la que cursé los dos últimos años de Bachillerato. En mis dos años de estudios aquí, conocí bastantes compañeros, e hice muy buenos amigos, con los que aún me escribo, y, disponemos de poder compartir momentos juntos. Algunos profesores si explicaban bien, pero otros no, por lo que considero que la enseñanza era baja. Aún así ponía atención y en práctica lo que me enseñaban. Eso me sirvió para mi Nivelación, y el poder entrar a la Universidad.
 
 ## Universidad de Guayaquil (En curso)
 
