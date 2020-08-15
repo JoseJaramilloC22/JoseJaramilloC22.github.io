@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Etiquetas
 type: tags
 # All the Tags of posts.
 # v2.0
@@ -8,22 +8,10 @@ type: tags
 # MIT License
 ---
 
-{% comment %}
-  'site.tags' looks like a Map, e.g. site.tags.MyTag.[ Post0, Post1, ... ]
-  Print the {{ site.tags }} will help you to understand it.
-{% endcomment %}
-<div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
-{% assign tags = "" | split: "" %}
-{% for t in site.tags %}
-  {% assign tags = tags | push: t[0] %}
-{% endfor %}
+- [*#IT*](https://josejaramilloc22.github.io/posts/IT/)
 
-{% assign sorted_tags = tags | sort_natural %}
+- [*#TIC*](https://josejaramilloc22.github.io/posts/TIC/)
 
-{% for t in sorted_tags %}
-  <div>
-    <a class="tag" href="{{ site.baseurl }}/tags/{{ t | replace: ' ', '-' | downcase | url_encode }}/">{{ t }}<span class="text-muted">{{ site.tags[t].size }}</span></a>
-  </div>
-{% endfor %}
+- [*#Importancia de la programación*](https://josejaramilloc22.github.io/posts/Programaci%C3%B3n/)
 
-</div>
+- [*#Ingeniería del Software*](https://josejaramilloc22.github.io/posts/Ing-de-Software/)
