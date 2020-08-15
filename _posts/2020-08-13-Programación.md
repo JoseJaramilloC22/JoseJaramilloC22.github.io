@@ -1,7 +1,7 @@
 ---
 title: La importancia de la programación en la actualidad
 author: José Jaramillo
-date: 2020-08-13 11:26:00 +0800
+date: 2020-08-13 11:30:00 +0800
 categories: [Blogging, Demo]
 tags: [Importancia de la Programación]
 math: true
