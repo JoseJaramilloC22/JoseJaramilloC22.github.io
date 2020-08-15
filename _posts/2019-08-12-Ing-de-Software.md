@@ -1,7 +1,7 @@
 ---
 title: ¿Qué es la Ingeniería de Software?
 author: José Jaramillo
-date: 2020-08-13 11:55:00 +0800
+date: 2020-08-12 11:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [Ingeniería de Software]
 toc: true
